@@ -1,0 +1,14 @@
+D:\ui\Semester 3\OOP\Kuliah\AdventureRPG\bin\Debug\net9.0\AdventureRPG.exe
+D:\ui\Semester 3\OOP\Kuliah\AdventureRPG\bin\Debug\net9.0\AdventureRPG.deps.json
+D:\ui\Semester 3\OOP\Kuliah\AdventureRPG\bin\Debug\net9.0\AdventureRPG.runtimeconfig.json
+D:\ui\Semester 3\OOP\Kuliah\AdventureRPG\bin\Debug\net9.0\AdventureRPG.dll
+D:\ui\Semester 3\OOP\Kuliah\AdventureRPG\bin\Debug\net9.0\AdventureRPG.pdb
+D:\ui\Semester 3\OOP\Kuliah\AdventureRPG\obj\Debug\net9.0\AdventureRPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\ui\Semester 3\OOP\Kuliah\AdventureRPG\obj\Debug\net9.0\AdventureRPG.AssemblyInfoInputs.cache
+D:\ui\Semester 3\OOP\Kuliah\AdventureRPG\obj\Debug\net9.0\AdventureRPG.AssemblyInfo.cs
+D:\ui\Semester 3\OOP\Kuliah\AdventureRPG\obj\Debug\net9.0\AdventureRPG.csproj.CoreCompileInputs.cache
+D:\ui\Semester 3\OOP\Kuliah\AdventureRPG\obj\Debug\net9.0\AdventureRPG.dll
+D:\ui\Semester 3\OOP\Kuliah\AdventureRPG\obj\Debug\net9.0\refint\AdventureRPG.dll
+D:\ui\Semester 3\OOP\Kuliah\AdventureRPG\obj\Debug\net9.0\AdventureRPG.pdb
+D:\ui\Semester 3\OOP\Kuliah\AdventureRPG\obj\Debug\net9.0\AdventureRPG.genruntimeconfig.cache
+D:\ui\Semester 3\OOP\Kuliah\AdventureRPG\obj\Debug\net9.0\ref\AdventureRPG.dll
